@@ -10,4 +10,4 @@ venv/
 data/*.csv
 data/*.zip
 
-*.log
+*.pkl
