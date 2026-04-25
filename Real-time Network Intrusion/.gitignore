@@ -1,0 +1,13 @@
+Tạo file .gitignore để không đẩy file rác hoặc dataset quá lớn:
+
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+venv/
+.venv/
+
+data/*.csv
+data/*.zip
+
+*.log
